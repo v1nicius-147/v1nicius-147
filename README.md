@@ -1,10 +1,17 @@
-## Olá eu sou Vinicius Alves, Programador back-end!
+Hello world, I'm Bruce👋
+Especialista em Business Intelligence,
+Administrador e Instrutor Análise de Dados
+Sobre mim:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
+🔭 Atualmente trabalho como Data Analyst Manager
+🏠 Atualmente moro e trabalho nos Estados Unidos
+🌱 Ensino Analise de dados em minha plataforma
+🤓 Cientista de Dados aspirante
+Principais Ferramentas:
 
+Python SQL Power BI
+
+Onde pode me encontrar:
+
+   
+Portfólio e Principais Projetos
